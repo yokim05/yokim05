@@ -1,0 +1,23 @@
+{
+  "name": "yokim05",
+  "version": "1.0.0",
+  "description": "Hallo mamank ini merupukan website portofolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yokim05/yokim05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yokim05/yokim05/issues"
+  },
+  "homepage": "https://github.com/yokim05/yokim05#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.1"
+  }
+}
