@@ -1,3 +1,3 @@
 #Readme
 
-Hallo mamank ini merupukan website portofolio
+Ini merupakan Website portfolio
